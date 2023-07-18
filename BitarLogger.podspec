@@ -33,7 +33,7 @@ TODO: 'Logger library for writing Hello world to the console'
   s.source_files = 'BitarLogger/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'BitarLogger' => ['BitarLogger/Assets/*.png']
+  #   'BitarLogger' => ['BitarLogger/BitarLogger/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
