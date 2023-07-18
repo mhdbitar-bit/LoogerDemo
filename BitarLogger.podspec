@@ -24,12 +24,12 @@ TODO: 'Logger library for writing Hello world to the console'
   s.homepage         = 'https://dev.azure.com/ircost/SV_SW_LSMAX/_git/clients.plib.ios'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '18489523' => 'eng.mhd.bitar@gmail.com' }
+  s.author           = { 'mhdbitar-bit' => 'eng.mhd.bitar@gmail.com' }
   s.source           = { :git => 'https://github.com/mhdbitar-bit/BitarLogger.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
-  s.ios.deployment_target = '13.0'
   s.swift_version = '5.0'
+  s.ios.deployment_target = '13.0'
+  
   s.source_files = 'BitarLogger/Classes/**/*'
   
   # s.resource_bundles = {
