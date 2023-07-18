@@ -30,7 +30,7 @@ TODO: 'Logger library for writing Hello world to the console'
   s.swift_version = '5.0'
   s.ios.deployment_target = '13.0'
   
-  s.source_files = 'BitarLogger/BitarLogger/Classes/**/*'
+  s.source_files = 'BitarLogger/BitarLogger/Classes/**/*.swift'
   
   # s.resource_bundles = {
   #   'BitarLogger' => ['BitarLogger/BitarLogger/Assets/*.png']
